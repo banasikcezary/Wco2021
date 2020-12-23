@@ -10,27 +10,26 @@
   
   <modules>
 
-<module>PoprawneLogowanieTest</module>
-<module>NieudaneLogowanieWCO</module>
-<!--<module>testDodaniaCertyfikatuDoUseraWCO</module>-->
-<!--<module>testDodanieNowejRoliWCO</module>-->
-<!--<module>testDodanieNowejGrupyWCO</module>-->
-<!--<module>testDodanieNowegoUżytkownikaWCO</module>-->
-<!--<module>testDodanieUprawnieniaDoRoliWCO</module>-->
-<!--<module>testDodanieRoliDoGrupyWCO</module>-->
-<!--<module>testDodanieRoliDlaUseraWCO</module>-->
-<!--<module>testWyszukaniaUseraWCO</module>-->
-<!--<module>testDodanieNowegoTaguDoNagraniaWCO</module>-->
-<!--<module>testEdycjaRoliWCO</module>-->
-<!--<module>testEdycjaGrupyWCO</module>-->
-<!--<module>testUsuniecieUseraWCO</module>-->
-<!--<module>testUsuniecieRoliZGrupyWCO</module>-->
-<!--<module>testUsuniecieUprawnieniaZRoliWCO</module>-->
-<!--<module>testUsuwanieRoliWCO</module>-->
-<!--<module>testUsuniecieGrupyWCO</module>-->
-<!--<module>testUsunieciaCertyfikatuWCO</module>-->
-<!--<module>PobieranieCertyfikatu</module>-->
-<!--<module>DodanieRoliDlaUsera2</module>-->
+
+    <module>NieudaneLogowanieWCO</module>
+    <module>PoprawneLogowanieTest</module>
+    <module>DodanieNowegoUsera</module>
+    <module>DodanieNowejGrupy</module>
+    <module>DodanieNowejRoli</module>
+    <module>DodanieRoliDlaUsera</module>
+    <module>DodanieRoliDoGrupy</module>
+    <module>DodanieUprawnieniaDoRoli</module>
+    <module>EdycjaGrupy</module>
+    <module>EdycjaRoli</module>
+    <module>WyszukiwanieUsera</module>
+    <module>DodanieCertyfikatuDoUsera</module>
+    <module>testPobranieCertyfikatuWCO</module>
+    <module>UsuniecieCertyfikatu</module>
+    <module>UsuniecieRoliZGrupy</module>
+    <module>UsuniecieUprawnieniaZRoli</module>
+    <module>UsuniecieUsera</module>
+    <module>UsuniecieGrupy</module>
+    <module>UsuniecieRoli</module>
 
 
   </modules>
