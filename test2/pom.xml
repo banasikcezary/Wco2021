@@ -10,8 +10,8 @@
   
   <modules>
 
-<module>testPoprawnegoLogowaniaWCO</module>
-<module>testNieudanegoLogowaniaWCO</module>
+<module>PoprawneLogowanieTest</module>
+<module>NieudaneLogowanieWCO</module>
 <!--<module>testDodaniaCertyfikatuDoUseraWCO</module>-->
 <!--<module>testDodanieNowejRoliWCO</module>-->
 <!--<module>testDodanieNowejGrupyWCO</module>-->
