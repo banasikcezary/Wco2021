@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64100ec8-8490-451a-bf8c-031061350469" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test2/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,27 +55,39 @@
       <option name="project" value="LOCAL" />
       <updated>1608734491405</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zmiany w pomie v3">
+      <created>1608735179026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608735179026</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="23" />
     <MESSAGE value="zmiany w pomie" />
     <MESSAGE value="zmiany w pomie v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="zmiany w pomie v2" />
+    <MESSAGE value="zmiany w pomie v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmiany w pomie v3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="445" y="26" key="CommitChangelistDialog2" timestamp="1608734490678">
+    <state x="445" y="26" key="CommitChangelistDialog2" timestamp="1608735178159">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="445" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608734490678" />
+    <state x="445" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608735178159" />
     <state x="143" y="69" key="DiffContextDialog" timestamp="1608734015727">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="143" y="69" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1608734015727" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1608734499136">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1608735189397">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608734499136" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608735189397" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1608802774638">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1608802774638" />
   </component>
 </project>

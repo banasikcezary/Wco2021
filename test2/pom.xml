@@ -9,27 +9,10 @@
   <name>WCOGuiTests</name>
   
   <modules>
+  <module>CSV</module>
+  
 
-
-    <module>NieudaneLogowanieWCO</module>
-    <module>PoprawneLogowanieTest</module>
-    <module>DodanieNowegoUsera</module>
-    <module>DodanieNowejGrupy</module>
-    <module>DodanieNowejRoli</module>
-    <module>DodanieRoliDlaUsera</module>
-    <module>DodanieRoliDoGrupy</module>
-    <module>DodanieUprawnieniaDoRoli</module>
-    <module>EdycjaGrupy</module>
-    <module>EdycjaRoli</module>
-    <module>WyszukiwanieUsera</module>
-    <module>DodanieCertyfikatuDoUsera</module>
-    <module>testPobranieCertyfikatuWCO</module>
-    <module>UsuniecieCertyfikatu</module>
-    <module>UsuniecieRoliZGrupy</module>
-    <module>UsuniecieUprawnieniaZRoli</module>
-    <module>UsuniecieUsera</module>
-    <module>UsuniecieGrupy</module>
-    <module>UsuniecieRoli</module>
+  
 
 
   </modules>
